@@ -13,7 +13,7 @@ const Footer = () => {
                             itsjustseo
                         </Link>
                         <p className="text-offwhite text-base mt-4 leading-relaxed">
-                            We're a digital marketing agency focused on delivering real results through data-driven SEO strategies and creative solutions.
+                            We&apos;re a digital marketing agency focused on delivering real results through data-driven SEO strategies and creative solutions.
                         </p>
                     </div>
 

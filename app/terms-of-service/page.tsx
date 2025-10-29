@@ -33,7 +33,7 @@ const TermsOfService = () => {
 
                             <li className="text-gray-700">Do not place multiple orders for the same link at the same time, wait until the first order will be completed.</li>
 
-                            <li className="text-gray-700">Also: do not place the same orders twice until the first one will be completed, canceled or partialled. No cancellation will be made and both orders will be marked as "completed". We can't deliver you the correct number of followers, likes, views etc. in such cases. We will not refund for these orders.</li>
+                            <li className="text-gray-700">Also: do not place the same orders twice until the first one will be completed, canceled or partialled. No cancellation will be made and both orders will be marked as &apos;completed&apos;. We can&apos;t deliver you the correct number of followers, likes, views etc. in such cases. We will not refund for these orders.</li>
 
                             <li className="text-gray-700">The system is working according to the start count and marks your orders as completed after you will receive enough quantity.</li>
 
@@ -45,11 +45,11 @@ const TermsOfService = () => {
 
                             <li className="text-gray-700">Failure to comply with the above terms and conditions belongs to the user who placed the order.</li>
 
-                            <li className="text-gray-700">The cancellation and refund rights of this service are reserved in accordance with the "ITSJUSTSEO Limited" user agreement.</li>
+                            <li className="text-gray-700">The cancellation and refund rights of this service are reserved in accordance with the &apos;ITSJUSTSEO Limited&apos; user agreement.</li>
 
                             <li className="text-gray-700">The user who placed the order is deemed to have read and accepted all the above information.</li>
 
-                            <li className="text-gray-700">The use of services provided by "ITSJUSTSEO Limited" establishes agreement to these terms. By registering or using our services you agree that you have read and fully understood the following terms of service and "ITSJUSTSEO Limited" will not be help liable for loss in any way for users who have not read the above terms of services.</li>
+                            <li className="text-gray-700">The use of services provided by &apos;ITSJUSTSEO Limited&apos; establishes agreement to these terms. By registering or using our services you agree that you have read and fully understood the following terms of service and &apos;ITSJUSTSEO Limited&apos; will not be help liable for loss in any way for users who have not read the above terms of services.</li>
                         </ol>
                     </div>
 

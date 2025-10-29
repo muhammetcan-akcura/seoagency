@@ -20,9 +20,9 @@ const PrivacyPolicy = () => {
                             Your privacy is critically important to us. At ITSJUSTSEO Limited we have a few fundamental principles:
                         </p>
                         <ol className="space-y-3 list-decimal pl-6 text-gray-700">
-                            <li>We don't ask you for personal information unless we truly need it. (We can't stand services that ask you for things like your gender or income level for no apparent reason.)</li>
-                            <li>We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
-                            <li>We don't store personal information on our servers unless required for the on-going operation of one of our services.</li>
+                            <li>We don&apos;t ask you for personal information unless we truly need it. (We can&apos;t stand services that ask you for things like your gender or income level for no apparent reason.)</li>
+                            <li>We don&apos;t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
+                            <li>We don&apos;t store personal information on our servers unless required for the on-going operation of one of our services.</li>
                         </ol>
                         <p className="text-gray-700 mt-6 font-semibold">
                             If you have questions about deleting or correcting your personal data please contact our support team.
@@ -37,10 +37,10 @@ const PrivacyPolicy = () => {
                                 Like most website and extension, ITSJUSTSEO Limited collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
                             </p>
                             <p>
-                                ITSJUSTSEO Limited purpose in collecting non-personally identifying information is to better understand how ITSJUSTSEO Limited's visitors use its website and its browser extensions. From time to time, ITSJUSTSEO Limited may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website and its extensions.
+                                ITSJUSTSEO Limited purpose in collecting non-personally identifying information is to better understand how ITSJUSTSEO Limited&apos;s visitors use its website and its browser extensions. From time to time, ITSJUSTSEO Limited may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website and its extensions.
                             </p>
                             <p className="font-semibold">
-                                We care about your privacy as much as you do. We don't share your data with anyone except for options syncing purposes. All user data usages are listed below.
+                                We care about your privacy as much as you do. We don&apos;t share your data with anyone except for options syncing purposes. All user data usages are listed below.
                             </p>
                             <div className="bg-gray-50 p-6 rounded-xl mt-4">
                                 <p>
@@ -55,10 +55,10 @@ const PrivacyPolicy = () => {
                         <h2 className="text-3xl font-bold mb-6">Gathering of Personally-Identifying Information</h2>
                         <div className="space-y-4 text-gray-700">
                             <p>
-                                Certain users of ITSJUSTSEO Limited's extensions and website choose to interact with ITSJUSTSEO Limited in ways that require ITSJUSTSEO Limited to gather personally-identifying information. The amount and type of information that ITSJUSTSEO Limited gathers depend on the nature of the interaction. For example, we ask users who sign up for a ITSJUSTSEO Limited account to provide an email address.
+                                Certain users of ITSJUSTSEO Limited&apos;s extensions and website choose to interact with ITSJUSTSEO Limited in ways that require ITSJUSTSEO Limited to gather personally-identifying information. The amount and type of information that ITSJUSTSEO Limited gathers depend on the nature of the interaction. For example, we ask users who sign up for a ITSJUSTSEO Limited account to provide an email address.
                             </p>
                             <p>
-                                Those who engage in transactions with ITSJUSTSEO Limited – by upgrading their account, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, ITSJUSTSEO Limited collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with ITSJUSTSEO Limited.
+                                Those who engage in transactions with ITSJUSTSEO Limited – by upgrading their account, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, ITSJUSTSEO Limited collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitors interaction with ITSJUSTSEO Limited.
                             </p>
                             <p>
                                 ITSJUSTSEO Limited does not disclose personally-identifying information other than as described below. And users can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain activities.
@@ -79,13 +79,13 @@ const PrivacyPolicy = () => {
                         <h2 className="text-3xl font-bold mb-6">Protection of Certain Personally-Identifying Information</h2>
                         <div className="space-y-4 text-gray-700">
                             <p>
-                                ITSJUSTSEO Limited discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on ITSJUSTSEO Limited's behalf or to provide services available at ITSJUSTSEO Limited's extensions and website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using ITSJUSTSEO Limited's extensions and website, you consent to the transfer of such information to them.
+                                ITSJUSTSEO Limited discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on ITSJUSTSEO Limited&apos;s behalf or to provide services available at ITSJUSTSEO Limited&apos;s extensions and website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using ITSJUSTSEO Limited&apos;s extensions and website, you consent to the transfer of such information to them.
                             </p>
                             <p>
                                 ITSJUSTSEO Limited will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, ITSJUSTSEO Limited discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when ITSJUSTSEO Limited believes in good faith that disclosure is reasonably necessary to protect the property or rights of ITSJUSTSEO Limited, third parties or the public at large.
                             </p>
                             <p>
-                                If you are a registered user of ITSJUSTSEO Limited and have supplied your email address, ITSJUSTSEO Limited may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with ITSJUSTSEO Limited and our products.
+                                If you are a registered user of ITSJUSTSEO Limited and have supplied your email address, ITSJUSTSEO Limited may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what&apos;s going on with ITSJUSTSEO Limited and our products.
                             </p>
                             <p>
                                 We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. ITSJUSTSEO Limited takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
@@ -98,7 +98,7 @@ const PrivacyPolicy = () => {
                         <h2 className="text-3xl font-bold mb-6">Cookies</h2>
                         <div className="space-y-4 text-gray-700">
                             <p>
-                                A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. ITSJUSTSEO Limited uses cookies to help ITSJUSTSEO Limited identify and track users, their usage of ITSJUSTSEO Limited extensions and website, and their extension access preferences. ITSJUSTSEO Limited visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using ITSJUSTSEO Limited's websites, with the drawback that certain features of ITSJUSTSEO Limited's extensions may not function properly without the aid of cookies.
+                                A cookie is a string of information that a website stores on a visitor&apos;s computer, and that the visitor&apos;s browser provides to the website each time the visitor returns. ITSJUSTSEO Limited uses cookies to help ITSJUSTSEO Limited identify and track users, their usage of ITSJUSTSEO Limited extensions and website, and their extension access preferences. ITSJUSTSEO Limited visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using ITSJUSTSEO Limited&apos;s websites, with the drawback that certain features of ITSJUSTSEO Limited&apos;s extensions may not function properly without the aid of cookies.
                             </p>
                         </div>
                     </div>
@@ -137,7 +137,7 @@ const PrivacyPolicy = () => {
 
                     {/* Children's Privacy */}
                     <div className="mb-12 bg-red-50 p-8 rounded-2xl">
-                        <h2 className="text-3xl font-bold mb-6">Children's Privacy</h2>
+                        <h2 className="text-3xl font-bold mb-6">Children&apos;s Privacy</h2>
                         <p className="text-gray-700">
                             ITSJUSTSEO Limited does not knowingly collect information from children under the age of 13, and children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation of this Privacy Policy, you can alert us at <a href="mailto:info@itsjustseo.com" className="text-blue-600 font-semibold hover:underline">info@itsjustseo.com</a>
                         </p>
@@ -147,7 +147,7 @@ const PrivacyPolicy = () => {
                     <div className="mb-12 bg-white border-2 border-gray-200 p-8 rounded-2xl">
                         <h2 className="text-3xl font-bold mb-6">Privacy Policy Changes</h2>
                         <p className="text-gray-700">
-                            Although most changes are likely to be minor, ITSJUSTSEO Limited may change its Privacy Policy from time to time, and in ITSJUSTSEO Limited's sole discretion. ITSJUSTSEO Limited encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of ITSJUSTSEO Limited's extensions and website after any change in this Privacy Policy will constitute your acceptance of such change.
+                            Although most changes are likely to be minor, ITSJUSTSEO Limited may change its Privacy Policy from time to time, and in ITSJUSTSEO Limited&apos;s sole discretion. ITSJUSTSEO Limited encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of ITSJUSTSEO Limited&apos;s extensions and website after any change in this Privacy Policy will constitute your acceptance of such change.
                         </p>
                     </div>
 

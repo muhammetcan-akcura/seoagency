@@ -68,7 +68,7 @@ const FAQ = () => {
                 <div className="text-center mb-14">
                     <h3 className="text-4xl lg:text-5xl font-semibold">Frequently Asked Questions</h3>
                     <p className="text-lg text-beach font-normal mt-4">
-                        Got questions? We've got answers. If you don't find what you're looking for, feel free to reach out.
+                        Got questions? We&apos;ve got answers. If you don&apos;t find what you&apos;re looking for, feel free to reach out.
                     </p>
                 </div>
 
