@@ -125,19 +125,11 @@ const RefundPolicy = () => {
                     </div>
 
                     {/* How to Request a Refund */}
-                    <div className="bg-gray-900 text-white p-8 rounded-2xl">
+                    <div className="bg-gray-900 text-dark p-8 rounded-2xl">
                         <h2 className="text-2xl font-bold mb-4">How to Request a Refund</h2>
                         <p className="mb-6">To request a refund, please contact us through one of the following methods:</p>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            <Link href="/contact" className="bg-white bg-opacity-10 hover:bg-opacity-20 transition-all duration-300 p-4 rounded-xl flex items-center">
-                                <svg className="w-6 h-6 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-                                </svg>
-                                <div>
-                                    <p className="font-semibold">Contact Us Page</p>
-                                    <p className="text-sm text-gray-300">Submit a support ticket</p>
-                                </div>
-                            </Link>
+                           
                             <a href="mailto:info@itsjustseo.com" className="bg-white bg-opacity-10 hover:bg-opacity-20 transition-all duration-300 p-4 rounded-xl flex items-center">
                                 <svg className="w-6 h-6 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207" />

@@ -10,25 +10,25 @@ const Aboutdata: datatype[] = [
     {
         imgSrc: "/assets/network/bangladesh.svg",
         country: "Bangladesh",
-        paragraph: 'Our Bangladesh team delivers innovative digital strategies and SEO solutions for fast-growing local brands.',
+        paragraph: 'Our Bangladesh team delivers innovative digital strategies and comprehensive SEO solutions for fast-growing local brands, helping them increase organic visibility, improve search rankings, and drive measurable traffic and conversions across all online channels.',
 
     },
     {
         imgSrc: "/assets/network/america.svg",
         country: "United States",
-        paragraph: 'We help U.S. businesses scale globally through advanced SEO, data-driven marketing, and creative web solutions.',
+        paragraph: 'We help U.S. businesses scale globally through strategic marketing campaigns, performance-driven advertising, and creative digital solutions that connect brands with their audiences and deliver measurable growth.',
 
     },
     {
         imgSrc: "/assets/network/australia.svg",
         country: "Australia",
-        paragraph: 'Empowering Australian startups and enterprises with cutting-edge SEO and digital growth campaigns.',
+        paragraph: 'Empowering Australian startups and enterprises with cutting-edge advertising campaigns, data-driven marketing strategies, and SEO-optimized digital growth solutions.',
 
     },
     {
         imgSrc: "/assets/network/china.svg",
         country: "China",
-        paragraph: 'Supporting Chinese companies to reach international markets with customized digital marketing and branding strategies.',
+        paragraph: 'Supporting Chinese companies to reach international markets with customized web design solutions, brand-focused digital experiences, and marketing-optimized user interfaces.',
 
     },
 ]

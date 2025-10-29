@@ -36,9 +36,9 @@ const Aboutdata: datatype[] = [
 
 const Provide = () => {
     return (
-        <div id="services">
+        <div>
 
-            <div className='mx-auto max-w-7xl px-4 my-10 sm:py-20 lg:px-8'>
+            <div id="services" className='mx-auto max-w-7xl px-4 my-10 sm:py-20 lg:px-8'>
                 <div className='grid grid-cols-1 lg:grid-cols-12 gap-8'>
 
                     {/* COLUMN-1 */}
@@ -46,9 +46,9 @@ const Provide = () => {
                         <div className="flex flex-col align-middle justify-center p-10">
                             <p className="text-4xl lg:text-6xl pt-4 font-semibold lh-81 mt-5 text-center lg:text-start">We provide that service.</p>
                             <h4 className="text-lg pt-4 font-normal lh-33 text-center lg:text-start text-bluegray">We provide tailored SEO, marketing, and web design solutions that help your brand grow online.
-Our team combines strategy, creativity, and technology to deliver measurable results.
-From website optimization to digital advertising, we turn your online presence into real business growth.</h4>
-                           </div>
+                                Our team combines strategy, creativity, and technology to deliver measurable results.
+                                From website optimization to digital advertising, we turn your online presence into real business growth.</h4>
+                        </div>
                     </div>
 
                     <div className='lg:col-span-1'></div>
