@@ -52,7 +52,7 @@ const Navbar = () => {
                         <div className="flex flex-1 items-center sm:items-stretch sm:justify-start">
                             <Link href="/" className="flex items-center space-x-2">
                                 <span className="text-2xl font-bold text-gray-900 tracking-tight hover:text-blue-600 transition-colors duration-200">
-                                    its<span className="text-blue-600">just</span>seo
+                                   justanothermarketing
                                 </span>
                             </Link>
                         </div>

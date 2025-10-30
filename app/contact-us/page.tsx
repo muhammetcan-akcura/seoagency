@@ -11,7 +11,7 @@ export default function ContactUs() {
                         <Building className="w-6 h-6 mt-1 flex-shrink-0" />
                         <div>
                             <h2 className="text-xl font-semibold mb-2">Company Name</h2>
-                            <p className="text-muted-foreground">ITSJUSTSEO Limited</p>
+                            <p className="text-muted-foreground">justanothermarketing Limited</p>
                         </div>
                     </div>
 

@@ -17,7 +17,7 @@ const PrivacyPolicy = () => {
                     {/* INTRO */}
                     <div className="mb-12 bg-blue-50 p-8 rounded-2xl">
                         <p className="text-lg text-gray-700 mb-6">
-                            Your privacy is critically important to us. At ITSJUSTSEO Limited we have a few fundamental principles:
+                            Your privacy is critically important to us. At justanothermarketing Limited we have a few fundamental principles:
                         </p>
                         <ol className="space-y-3 list-decimal pl-6 text-gray-700">
                             <li>We don&apos;t ask you for personal information unless we truly need it. (We can&apos;t stand services that ask you for things like your gender or income level for no apparent reason.)</li>
@@ -34,17 +34,17 @@ const PrivacyPolicy = () => {
                         <h2 className="text-3xl font-bold mb-6">Extension Users and Website Visitors</h2>
                         <div className="space-y-4 text-gray-700">
                             <p>
-                                Like most website and extension, ITSJUSTSEO Limited collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
+                                Like most website and extension, justanothermarketing Limited collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
                             </p>
                             <p>
-                                ITSJUSTSEO Limited purpose in collecting non-personally identifying information is to better understand how ITSJUSTSEO Limited&apos;s visitors use its website and its browser extensions. From time to time, ITSJUSTSEO Limited may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website and its extensions.
+                                justanothermarketing Limited purpose in collecting non-personally identifying information is to better understand how justanothermarketing Limited&apos;s visitors use its website and its browser extensions. From time to time, justanothermarketing Limited may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website and its extensions.
                             </p>
                             <p className="font-semibold">
                                 We care about your privacy as much as you do. We don&apos;t share your data with anyone except for options syncing purposes. All user data usages are listed below.
                             </p>
                             <div className="bg-gray-50 p-6 rounded-xl mt-4">
                                 <p>
-                                    ITSJUSTSEO Limited extension only use the proxy for the tools we are offering, all your browsing data is not monitored, nor connected via proxy. Our Proxy extension will never store or log your IP address for any browsing other then the tools we are offering. We do not keep logs of your online activities and never associate any domains, or applications that you access.
+                                    justanothermarketing Limited extension only use the proxy for the tools we are offering, all your browsing data is not monitored, nor connected via proxy. Our Proxy extension will never store or log your IP address for any browsing other then the tools we are offering. We do not keep logs of your online activities and never associate any domains, or applications that you access.
                                 </p>
                             </div>
                         </div>
@@ -55,13 +55,13 @@ const PrivacyPolicy = () => {
                         <h2 className="text-3xl font-bold mb-6">Gathering of Personally-Identifying Information</h2>
                         <div className="space-y-4 text-gray-700">
                             <p>
-                                Certain users of ITSJUSTSEO Limited&apos;s extensions and website choose to interact with ITSJUSTSEO Limited in ways that require ITSJUSTSEO Limited to gather personally-identifying information. The amount and type of information that ITSJUSTSEO Limited gathers depend on the nature of the interaction. For example, we ask users who sign up for a ITSJUSTSEO Limited account to provide an email address.
+                                Certain users of justanothermarketing Limited&apos;s extensions and website choose to interact with justanothermarketing Limited in ways that require justanothermarketing Limited to gather personally-identifying information. The amount and type of information that justanothermarketing Limited gathers depend on the nature of the interaction. For example, we ask users who sign up for a justanothermarketing Limited account to provide an email address.
                             </p>
                             <p>
-                                Those who engage in transactions with ITSJUSTSEO Limited – by upgrading their account, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, ITSJUSTSEO Limited collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitors interaction with ITSJUSTSEO Limited.
+                                Those who engage in transactions with justanothermarketing Limited – by upgrading their account, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, justanothermarketing Limited collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitors interaction with justanothermarketing Limited.
                             </p>
                             <p>
-                                ITSJUSTSEO Limited does not disclose personally-identifying information other than as described below. And users can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain activities.
+                                justanothermarketing Limited does not disclose personally-identifying information other than as described below. And users can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain activities.
                             </p>
                         </div>
                     </div>
@@ -70,7 +70,7 @@ const PrivacyPolicy = () => {
                     <div className="mb-12">
                         <h2 className="text-3xl font-bold mb-6">Aggregated Statistics</h2>
                         <p className="text-gray-700">
-                            ITSJUSTSEO Limited may collect statistics about the behavior of users to its extensions and its website. ITSJUSTSEO Limited may display this information publicly or provide it to others. However, ITSJUSTSEO Limited does not disclose personally-identifying information other than as described below.
+                            justanothermarketing Limited may collect statistics about the behavior of users to its extensions and its website. justanothermarketing Limited may display this information publicly or provide it to others. However, justanothermarketing Limited does not disclose personally-identifying information other than as described below.
                         </p>
                     </div>
 
@@ -79,16 +79,16 @@ const PrivacyPolicy = () => {
                         <h2 className="text-3xl font-bold mb-6">Protection of Certain Personally-Identifying Information</h2>
                         <div className="space-y-4 text-gray-700">
                             <p>
-                                ITSJUSTSEO Limited discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on ITSJUSTSEO Limited&apos;s behalf or to provide services available at ITSJUSTSEO Limited&apos;s extensions and website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using ITSJUSTSEO Limited&apos;s extensions and website, you consent to the transfer of such information to them.
+                                justanothermarketing Limited discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on justanothermarketing Limited&apos;s behalf or to provide services available at justanothermarketing Limited&apos;s extensions and website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using justanothermarketing Limited&apos;s extensions and website, you consent to the transfer of such information to them.
                             </p>
                             <p>
-                                ITSJUSTSEO Limited will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, ITSJUSTSEO Limited discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when ITSJUSTSEO Limited believes in good faith that disclosure is reasonably necessary to protect the property or rights of ITSJUSTSEO Limited, third parties or the public at large.
+                                justanothermarketing Limited will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, justanothermarketing Limited discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when justanothermarketing Limited believes in good faith that disclosure is reasonably necessary to protect the property or rights of justanothermarketing Limited, third parties or the public at large.
                             </p>
                             <p>
-                                If you are a registered user of ITSJUSTSEO Limited and have supplied your email address, ITSJUSTSEO Limited may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what&apos;s going on with ITSJUSTSEO Limited and our products.
+                                If you are a registered user of justanothermarketing Limited and have supplied your email address, justanothermarketing Limited may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what&apos;s going on with justanothermarketing Limited and our products.
                             </p>
                             <p>
-                                We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. ITSJUSTSEO Limited takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+                                We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. justanothermarketing Limited takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
                             </p>
                         </div>
                     </div>
@@ -98,7 +98,7 @@ const PrivacyPolicy = () => {
                         <h2 className="text-3xl font-bold mb-6">Cookies</h2>
                         <div className="space-y-4 text-gray-700">
                             <p>
-                                A cookie is a string of information that a website stores on a visitor&apos;s computer, and that the visitor&apos;s browser provides to the website each time the visitor returns. ITSJUSTSEO Limited uses cookies to help ITSJUSTSEO Limited identify and track users, their usage of ITSJUSTSEO Limited extensions and website, and their extension access preferences. ITSJUSTSEO Limited visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using ITSJUSTSEO Limited&apos;s websites, with the drawback that certain features of ITSJUSTSEO Limited&apos;s extensions may not function properly without the aid of cookies.
+                                A cookie is a string of information that a website stores on a visitor&apos;s computer, and that the visitor&apos;s browser provides to the website each time the visitor returns. justanothermarketing Limited uses cookies to help justanothermarketing Limited identify and track users, their usage of justanothermarketing Limited extensions and website, and their extension access preferences. justanothermarketing Limited visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using justanothermarketing Limited&apos;s websites, with the drawback that certain features of justanothermarketing Limited&apos;s extensions may not function properly without the aid of cookies.
                             </p>
                         </div>
                     </div>
@@ -107,7 +107,7 @@ const PrivacyPolicy = () => {
                     <div className="mb-12">
                         <h2 className="text-3xl font-bold mb-6">Third-Party Cookies</h2>
                         <p className="text-gray-700">
-                            ITSJUSTSEO Limited is handling cookies from third-party websites to provide its main functionality. All third-party cookies are stored and transferred in the encrypted format. Cookies are encrypted and decrypted at the device level. Cookies stored by ITSJUSTSEO Limited is kept secret, even from ITSJUSTSEO Limited employees.
+                            justanothermarketing Limited is handling cookies from third-party websites to provide its main functionality. All third-party cookies are stored and transferred in the encrypted format. Cookies are encrypted and decrypted at the device level. Cookies stored by justanothermarketing Limited is kept secret, even from justanothermarketing Limited employees.
                         </p>
                     </div>
 
@@ -115,7 +115,7 @@ const PrivacyPolicy = () => {
                     <div className="mb-12 bg-gray-50 p-8 rounded-2xl">
                         <h2 className="text-3xl font-bold mb-6">Business Transfers</h2>
                         <p className="text-gray-700">
-                            If ITSJUSTSEO Limited, or substantially all of its assets, were acquired, or in the unlikely event that ITSJUSTSEO Limited goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur and that any acquirer of ITSJUSTSEO Limited may continue to use your personal information as set forth in this policy.
+                            If justanothermarketing Limited, or substantially all of its assets, were acquired, or in the unlikely event that justanothermarketing Limited goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur and that any acquirer of justanothermarketing Limited may continue to use your personal information as set forth in this policy.
                         </p>
                     </div>
 
@@ -126,10 +126,10 @@ const PrivacyPolicy = () => {
                             If you are a resident of the EEA, you have the following data protection rights:
                         </p>
                         <ul className="space-y-3 list-disc pl-6 text-gray-700">
-                            <li>If you wish to access, correct, update, or request deletion of your personal information, you can do so at any time by emailing <a href="mailto:info@itsjustseo.com" className="text-blue-600 font-semibold hover:underline">info@itsjustseo.com</a></li>
+                            <li>If you wish to access, correct, update, or request deletion of your personal information, you can do so at any time by emailing <a href="mailto:info@justanothermarketing.com" className="text-blue-600 font-semibold hover:underline">info@justanothermarketing.com</a></li>
                             <li>In addition, you can object to the processing of your personal information, ask us to restrict the processing of your personal information or request the portability of your personal information.</li>
-                            <li>Again, you can exercise these rights by emailing <a href="mailto:info@itsjustseo.com" className="text-blue-600 font-semibold hover:underline">info@itsjustseo.com</a></li>
-                            <li>Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time by emailing <a href="mailto:info@itsjustseo.com" className="text-blue-600 font-semibold hover:underline">info@itsjustseo.com</a>. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.</li>
+                            <li>Again, you can exercise these rights by emailing <a href="mailto:info@justanothermarketing.com" className="text-blue-600 font-semibold hover:underline">info@justanothermarketing.com</a></li>
+                            <li>Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time by emailing <a href="mailto:info@justanothermarketing.com" className="text-blue-600 font-semibold hover:underline">info@justanothermarketing.com</a>. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.</li>
                             <li>You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.</li>
                             <li>We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.</li>
                         </ul>
@@ -139,7 +139,7 @@ const PrivacyPolicy = () => {
                     <div className="mb-12 bg-red-50 p-8 rounded-2xl">
                         <h2 className="text-3xl font-bold mb-6">Children&apos;s Privacy</h2>
                         <p className="text-gray-700">
-                            ITSJUSTSEO Limited does not knowingly collect information from children under the age of 13, and children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation of this Privacy Policy, you can alert us at <a href="mailto:info@itsjustseo.com" className="text-blue-600 font-semibold hover:underline">info@itsjustseo.com</a>
+                            justanothermarketing Limited does not knowingly collect information from children under the age of 13, and children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation of this Privacy Policy, you can alert us at <a href="mailto:info@justanothermarketing.com" className="text-blue-600 font-semibold hover:underline">info@justanothermarketing.com</a>
                         </p>
                     </div>
 
@@ -147,7 +147,7 @@ const PrivacyPolicy = () => {
                     <div className="mb-12 bg-white border-2 border-gray-200 p-8 rounded-2xl">
                         <h2 className="text-3xl font-bold mb-6">Privacy Policy Changes</h2>
                         <p className="text-gray-700">
-                            Although most changes are likely to be minor, ITSJUSTSEO Limited may change its Privacy Policy from time to time, and in ITSJUSTSEO Limited&apos;s sole discretion. ITSJUSTSEO Limited encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of ITSJUSTSEO Limited&apos;s extensions and website after any change in this Privacy Policy will constitute your acceptance of such change.
+                            Although most changes are likely to be minor, justanothermarketing Limited may change its Privacy Policy from time to time, and in justanothermarketing Limited&apos;s sole discretion. justanothermarketing Limited encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of justanothermarketing Limited&apos;s extensions and website after any change in this Privacy Policy will constitute your acceptance of such change.
                         </p>
                     </div>
 
@@ -159,7 +159,7 @@ const PrivacyPolicy = () => {
                                 We also have a right to change any tools of any plan, according to our need. Most of our tools are premium and some are a trail in all given plan. Before purchasing please make sure thoroughly read the agreement.
                             </p>
                             <p>
-                                All the tools are purchased and linked from 3rd party websites and user. itsjustseo.com does not own any accounts at its servers, it basically provides access to the accounts. itsjustseo.com; Its owners and its staff can not be held responsible for any type of content. To remove an account please contact us through email.
+                                All the tools are purchased and linked from 3rd party websites and user. justanothermarketing.com does not own any accounts at its servers, it basically provides access to the accounts. justanothermarketing.com; Its owners and its staff can not be held responsible for any type of content. To remove an account please contact us through email.
                             </p>
                         </div>
                     </div>

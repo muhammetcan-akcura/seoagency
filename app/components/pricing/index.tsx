@@ -149,8 +149,8 @@ const servicesData: ServiceData[] = [
     {
         category: "Web Design Packages",
         title: "Business Growth",
-        price: "$1,800",
-        priceNum: 1800,
+        price: "$1,500",
+        priceNum: 1500,
         features: [
             "Up to 8 Pages",
             "Professional Design System",
@@ -177,8 +177,8 @@ const servicesData: ServiceData[] = [
     {
         category: "Web Design Packages",
         title: "Creative Studio Website",
-        price: "$2,800",
-        priceNum: 2800,
+        price: "$2,500",
+        priceNum: 2500,
         features: [
             "Up to 10 Custom Pages",
             "High-End Visual Design & Animations",
@@ -289,8 +289,8 @@ const servicesData: ServiceData[] = [
     {
         category: "Advertising Packages",
         title: "Brand Awareness Boost",
-        price: "$2,800",
-        priceNum: 2800,
+        price: "$2,500",
+        priceNum: 2500,
         features: [
             "Multi-Platform Campaigns",
             "Video & Display Ads",
@@ -344,8 +344,8 @@ const servicesData: ServiceData[] = [
     },    {
         category: "SEO Packages",
         title: "Basic",
-        price: "$10",
-        priceNum: 10,
+        price: "$100",
+        priceNum: 100,
         features: [
             "Keyword Research (20 keywords)",
             "On-Page SEO Optimization",
@@ -356,8 +356,8 @@ const servicesData: ServiceData[] = [
     {
         category: "SEO Packages",
         title: "Starter",
-        price: "$20",
-        priceNum: 20,
+        price: "$200",
+        priceNum: 200,
         features: [
             "Keyword Research (30 keywords)",
             "On-Page SEO Optimization",
@@ -370,8 +370,8 @@ const servicesData: ServiceData[] = [
     {
         category: "SEO Packages",
         title: "Standard",
-        price: "$50",
-        priceNum: 50,
+        price: "$500",
+        priceNum: 500,
         features: [
             "Keyword Research (40 keywords)",
             "On-Page SEO Optimization",
@@ -384,8 +384,8 @@ const servicesData: ServiceData[] = [
     {
         category: "SEO Packages",
         title: "Plus",
-        price: "$100",
-        priceNum: 100,
+        price: "$1,000",
+        priceNum: 1000,
         features: [
             "Keyword Research (40 keywords)",
             "On-Page SEO Optimization",
@@ -399,8 +399,8 @@ const servicesData: ServiceData[] = [
     {
         category: "SEO Packages",
         title: "Advanced",
-        price: "$150",
-        priceNum: 150,
+        price: "$1,500",
+        priceNum: 1500,
         features: [
             "Keyword Research (50 keywords)",
             "On-Page SEO Optimization",
@@ -414,8 +414,8 @@ const servicesData: ServiceData[] = [
     {
         category: "SEO Packages",
         title: "Pro",
-        price: "$200",
-        priceNum: 200,
+        price: "$,2000",
+        priceNum: 2000,
         features: [
             "Keyword Research (60 keywords)",
             "On-Page SEO Optimization",
@@ -430,8 +430,8 @@ const servicesData: ServiceData[] = [
     {
         category: "SEO Packages",
         title: "Premium",
-        price: "$250",
-        priceNum: 250,
+        price: "$2,500",
+        priceNum: 2500,
         features: [
             "Keyword Research (70 keywords)",
             "On-Page SEO Optimization",
@@ -446,8 +446,8 @@ const servicesData: ServiceData[] = [
     {
         category: "SEO Packages",
         title: "Ultra",
-        price: "$500",
-        priceNum: 500,
+        price: "$5,000",
+        priceNum: 5000,
         features: [
             "Keyword Research (80 keywords)",
             "On-Page SEO Optimization",
@@ -462,8 +462,8 @@ const servicesData: ServiceData[] = [
     {
         category: "SEO Packages",
         title: "Max",
-        price: "$750",
-        priceNum: 750,
+        price: "$7,500",
+        priceNum: 7500,
         features: [
             "Keyword Research (90 keywords)",
             "On-Page SEO Optimization",
@@ -478,8 +478,8 @@ const servicesData: ServiceData[] = [
     {
         category: "SEO Packages",
         title: "Ultimate",
-        price: "$1,000",
-        priceNum: 1000,
+        price: "$10,000",
+        priceNum: 10000,
         features: [
             "Keyword Research (100 keywords)",
             "On-Page SEO Optimization",
@@ -677,7 +677,7 @@ const PaymentMethodModal = ({
 
 const PayoneerContactModal = ({ service, onClose }: { service: ServiceData; onClose: () => void }) => {
     const whatsappNumber = "1234567890" // Replace with your WhatsApp number
-    const message = `Hi, I'm interested in the ${service.title} package (${service.price}/month) and would like to pay via Payoneer.`
+    const message = `Hi, I'm interested in the ${service.title} package (${service.price}) and would like to pay via Payoneer.`
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`
 
     return (
@@ -725,7 +725,7 @@ const PayoneerContactModal = ({ service, onClose }: { service: ServiceData; onCl
                     <h4 style={{ fontWeight: 600, color: "#111827", marginBottom: "12px" }}>Selected Package</h4>
                     <div style={{ display: "flex", justifyContent: "space-between", marginBottom: "8px" }}>
                         <span style={{ color: "#6b7280" }}>{service.title}</span>
-                        <span style={{ fontWeight: 600, color: "#9333ea" }}>{service.price}/month</span>
+                        <span style={{ fontWeight: 600, color: "#9333ea" }}>{service.price}</span>
                     </div>
                     <p style={{ fontSize: "14px", color: "#6b7280", marginTop: "12px" }}>
                         Click the button below to contact us via WhatsApp. We&apos;ll provide you with our Payoneer details and guide you
@@ -1268,7 +1268,7 @@ const PricingPage = () => {
 
                                         <div style={{ marginBottom: "16px" }}>
                                             <span style={{ fontSize: "36px", fontWeight: "bold", color: "#9333ea" }}>{service.price}</span>
-                                            <span style={{ color: "#6b7280", fontSize: "14px", marginLeft: "4px" }}>/month</span>
+                                            <span style={{ color: "#6b7280", fontSize: "14px", marginLeft: "4px" }}></span>
                                         </div>
 
                                         <div style={{ flex: 1, marginBottom: "24px" }}>

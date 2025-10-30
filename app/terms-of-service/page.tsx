@@ -45,11 +45,11 @@ const TermsOfService = () => {
 
                             <li className="text-gray-700">Failure to comply with the above terms and conditions belongs to the user who placed the order.</li>
 
-                            <li className="text-gray-700">The cancellation and refund rights of this service are reserved in accordance with the &apos;ITSJUSTSEO Limited&apos; user agreement.</li>
+                            <li className="text-gray-700">The cancellation and refund rights of this service are reserved in accordance with the &apos;justanothermarketing Limited&apos; user agreement.</li>
 
                             <li className="text-gray-700">The user who placed the order is deemed to have read and accepted all the above information.</li>
 
-                            <li className="text-gray-700">The use of services provided by &apos;ITSJUSTSEO Limited&apos; establishes agreement to these terms. By registering or using our services you agree that you have read and fully understood the following terms of service and &apos;ITSJUSTSEO Limited&apos; will not be help liable for loss in any way for users who have not read the above terms of services.</li>
+                            <li className="text-gray-700">The use of services provided by &apos;justanothermarketing Limited&apos; establishes agreement to these terms. By registering or using our services you agree that you have read and fully understood the following terms of service and &apos;justanothermarketing Limited&apos; will not be help liable for loss in any way for users who have not read the above terms of services.</li>
                         </ol>
                     </div>
 
@@ -57,15 +57,15 @@ const TermsOfService = () => {
                     <div className="mb-12 bg-gray-50 p-8 rounded-2xl">
                         <h2 className="text-3xl font-bold mb-6">GENERAL USE AGREEMENT</h2>
                         <p className="text-gray-700 mb-6">
-                            It is recommended to read the User Agreement, which contains the following terms, rules and legal responsibilities regarding the general rules and legal responsibilities regarding the use of the site, before using the ITSJUSTSEO Limited site.
+                            It is recommended to read the User Agreement, which contains the following terms, rules and legal responsibilities regarding the general rules and legal responsibilities regarding the use of the site, before using the justanothermarketing Limited site.
                         </p>
                         <ul className="space-y-3 list-disc pl-6 text-gray-700">
-                            <li>Please do not load and use the balance on ITSJUSTSEO Limited if the conditions stated are not suitable for you.</li>
+                            <li>Please do not load and use the balance on justanothermarketing Limited if the conditions stated are not suitable for you.</li>
                             <li>By using the site and filling out the membership form containing your personal information, you are deemed to have accepted the terms written on these pages.</li>
-                            <li>ITSJUSTSEO Limited reserves the right to change, reorganize, stop the publication of all kinds of services, products, terms of use and information available on this site and site extension without prior notice.</li>
+                            <li>justanothermarketing Limited reserves the right to change, reorganize, stop the publication of all kinds of services, products, terms of use and information available on this site and site extension without prior notice.</li>
                             <li>Changes take effect on the date of publication on the site.</li>
-                            <li>ITSJUSTSEO Limited recommends its users to visit the user agreement, terms of service and cancellation / refund conditions pages at each login to the site.</li>
-                            <li>These conditions also apply to other linked web pages. The user agreement, terms of service and cancellation / refund conditions are open to all members of ITSJUSTSEO Limited.</li>
+                            <li>justanothermarketing Limited recommends its users to visit the user agreement, terms of service and cancellation / refund conditions pages at each login to the site.</li>
+                            <li>These conditions also apply to other linked web pages. The user agreement, terms of service and cancellation / refund conditions are open to all members of justanothermarketing Limited.</li>
                         </ul>
 
                         <div className="mt-6">
@@ -98,13 +98,13 @@ const TermsOfService = () => {
                             <div>
                                 <h3 className="text-xl font-semibold text-gray-900 mb-3">2.a. Intellectual Property</h3>
                                 <p className="text-gray-700">
-                                    ITSJUSTSEO Limited is the owner or licensee of the general appearance and design of this website and all information, ITSJUSTSEO Limited brand and other trademarks, domain name, logo, icon, demonstrative, written, electronic, graphic or machine-readable technical data, computer software, applied sales system, business method and business model on the website. No Materials may be modified, copied, reproduced, translated into another language, republished, uploaded to another computer, posted, transmitted, presented or distributed without prior permission.
+                                    justanothermarketing Limited is the owner or licensee of the general appearance and design of this website and all information, justanothermarketing Limited brand and other trademarks, domain name, logo, icon, demonstrative, written, electronic, graphic or machine-readable technical data, computer software, applied sales system, business method and business model on the website. No Materials may be modified, copied, reproduced, translated into another language, republished, uploaded to another computer, posted, transmitted, presented or distributed without prior permission.
                                 </p>
                             </div>
                             <div>
                                 <h3 className="text-xl font-semibold text-gray-900 mb-3">2.b. User Feedback</h3>
                                 <p className="text-gray-700">
-                                    All criticism sent to ITSJUSTSEO Limited is the right of ITSJUSTSEO Limited and may be used by ITSJUSTSEO Limited for marketing purposes if desired.
+                                    All criticism sent to justanothermarketing Limited is the right of justanothermarketing Limited and may be used by justanothermarketing Limited for marketing purposes if desired.
                                 </p>
                             </div>
                         </div>
@@ -116,15 +116,15 @@ const TermsOfService = () => {
                         <div className="space-y-5">
                             <div>
                                 <h3 className="font-semibold text-gray-900 mb-2">3.a. User Tracking</h3>
-                                <p className="text-gray-700">The information of users who visit ITSJUSTSEO Limited (duration, time of visit, pages viewed) may be tracked in order to better serve them.</p>
+                                <p className="text-gray-700">The information of users who visit justanothermarketing Limited (duration, time of visit, pages viewed) may be tracked in order to better serve them.</p>
                             </div>
                             <div>
                                 <h3 className="font-semibold text-gray-900 mb-2">3.b. Prohibited Actions</h3>
-                                <p className="text-gray-700">The user may not take actions that prevent or make it difficult for other users and visitors to use the ITSJUSTSEO Limited application, and may not install automatic programs and force/lock servers or databases. Cannot make cheating attempts.</p>
+                                <p className="text-gray-700">The user may not take actions that prevent or make it difficult for other users and visitors to use the justanothermarketing Limited application, and may not install automatic programs and force/lock servers or databases. Cannot make cheating attempts.</p>
                             </div>
                             <div>
                                 <h3 className="font-semibold text-gray-900 mb-2">3.c. Data Backup</h3>
-                                <p className="text-gray-700">It is the responsibility of the individuals to take backups of the messages made with the management of ITSJUSTSEO Limited. ITSJUSTSEO Limited cannot be held responsible for the loss, deletion or damage due to failure to back up.</p>
+                                <p className="text-gray-700">It is the responsibility of the individuals to take backups of the messages made with the management of justanothermarketing Limited. justanothermarketing Limited cannot be held responsible for the loss, deletion or damage due to failure to back up.</p>
                             </div>
                             <div>
                                 <h3 className="font-semibold text-gray-900 mb-2">3.d. Account Deletion</h3>
@@ -132,11 +132,11 @@ const TermsOfService = () => {
                             </div>
                             <div>
                                 <h3 className="font-semibold text-gray-900 mb-2">3.e. External Links</h3>
-                                <p className="text-gray-700">This website may contain links or references to other websites that are not under the control of ITSJUSTSEO Limited. ITSJUSTSEO Limited is not responsible for the content of these sites.</p>
+                                <p className="text-gray-700">This website may contain links or references to other websites that are not under the control of justanothermarketing Limited. justanothermarketing Limited is not responsible for the content of these sites.</p>
                             </div>
                             <div>
                                 <h3 className="font-semibold text-gray-900 mb-2">3.f. Communication</h3>
-                                <p className="text-gray-700">ITSJUSTSEO Limited has the right to reach the user for communication, marketing, notification and other purposes by letter, e-mail, SMS, phone call and other means.</p>
+                                <p className="text-gray-700">justanothermarketing Limited has the right to reach the user for communication, marketing, notification and other purposes by letter, e-mail, SMS, phone call and other means.</p>
                             </div>
                         </div>
                     </div>
@@ -148,13 +148,13 @@ const TermsOfService = () => {
                             <div>
                                 <h3 className="font-semibold text-gray-900 mb-2">4.a. Service Changes</h3>
                                 <p className="text-gray-700">
-                                    In order to ensure the continuity of the services it undertakes, ITSJUSTSEO Limited may make unilateral changes to this agreement without any notice. ITSJUSTSEO Limited always has the right to unilaterally stop the service it provides permanently or temporarily, change the content of the service or cancel it at any time without any justification.
+                                    In order to ensure the continuity of the services it undertakes, justanothermarketing Limited may make unilateral changes to this agreement without any notice. justanothermarketing Limited always has the right to unilaterally stop the service it provides permanently or temporarily, change the content of the service or cancel it at any time without any justification.
                                 </p>
                             </div>
                             <div>
                                 <h3 className="font-semibold text-gray-900 mb-2">4.b. Agreement Effectiveness</h3>
                                 <p className="text-gray-700">
-                                    The user is deemed to have undertaken to comply with the ITSJUSTSEO Limited agreement from the moment they fill in and approve the registration form or receive any service or orders using this system.
+                                    The user is deemed to have undertaken to comply with the justanothermarketing Limited agreement from the moment they fill in and approve the registration form or receive any service or orders using this system.
                                 </p>
                             </div>
                         </div>
@@ -164,12 +164,12 @@ const TermsOfService = () => {
                     <div className="mb-12 bg-blue-50 p-8 rounded-2xl">
                         <h2 className="text-3xl font-bold mb-6">PRIVACY AGREEMENT</h2>
                         <div className="space-y-4 text-gray-700">
-                            <p>The records of the transactions made by ITSJUSTSEO Limited members on the site are kept strictly confidential and are never shared with 3rd parties and institutions.</p>
+                            <p>The records of the transactions made by justanothermarketing Limited members on the site are kept strictly confidential and are never shared with 3rd parties and institutions.</p>
                             <p>The orders you place are shared with service providers. However, if requested by official government agencies, records can be presented to official government agency officials.</p>
-                            <p>The credit card information requested on the payment page is in no way kept on the servers of ITSJUSTSEO Limited in order to keep the security of our customers at the highest level.</p>
-                            <p>Creating a successful order from our website ITSJUSTSEO Limited means that you give our website permission to send our announcements to your e-mail address and phone number.</p>
+                            <p>The credit card information requested on the payment page is in no way kept on the servers of justanothermarketing Limited in order to keep the security of our customers at the highest level.</p>
+                            <p>Creating a successful order from our website justanothermarketing Limited means that you give our website permission to send our announcements to your e-mail address and phone number.</p>
                             <p className="font-semibold">If you do not wish to be notified of e-mail and SMS announcements, you must send an e-mail to:</p>
-                            <p className="text-blue-600 font-semibold">Email: info@itsjustseo.com</p>
+                            <p className="text-blue-600 font-semibold">Email: info@justanothermarketing.com</p>
                         </div>
                     </div>
 

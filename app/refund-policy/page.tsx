@@ -14,7 +14,7 @@ const RefundPolicy = () => {
                 {/* INTRO */}
                 <div className="mb-12 bg-blue-50 p-8 rounded-2xl">
                     <p className="text-lg text-gray-700">
-                        At ITSJUSTSEO Limited, we strive to provide the best digital services to our customers. Please read our refund policy carefully to understand your rights and our procedures.
+                        At justanothermarketing Limited, we strive to provide the best digital services to our customers. Please read our refund policy carefully to understand your rights and our procedures.
                     </p>
                 </div>
 
@@ -130,13 +130,13 @@ const RefundPolicy = () => {
                         <p className="mb-6">To request a refund, please contact us through one of the following methods:</p>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                            
-                            <a href="mailto:info@itsjustseo.com" className="bg-white bg-opacity-10 hover:bg-opacity-20 transition-all duration-300 p-4 rounded-xl flex items-center">
+                            <a href="mailto:info@justanothermarketing.com" className="bg-white bg-opacity-10 hover:bg-opacity-20 transition-all duration-300 p-4 rounded-xl flex items-center">
                                 <svg className="w-6 h-6 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207" />
                                 </svg>
                                 <div>
                                     <p className="font-semibold">Email Us</p>
-                                    <p className="text-sm text-gray-300">info@itsjustseo.com</p>
+                                    <p className="text-sm text-gray-300">info@justanothermarketing.com</p>
                                 </div>
                             </a>
                         </div>
@@ -165,7 +165,7 @@ const RefundPolicy = () => {
                             </li>
                             <li className="flex items-start">
                                 <span className="inline-block w-1.5 h-1.5 bg-red-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
-                                <span>ITSJUSTSEO Limited reserves the right to decline refund requests that do not meet the stated criteria.</span>
+                                <span>justanothermarketing Limited reserves the right to decline refund requests that do not meet the stated criteria.</span>
                             </li>
                         </ul>
                     </div>
