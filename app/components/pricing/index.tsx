@@ -711,7 +711,7 @@ const PayoneerContactModal = ({ service, onClose }: { service: ServiceData; onCl
                     <div>
                         <h3 style={{ fontSize: "24px", fontWeight: "bold", color: "#111827" }}>Contact Us for Payoneer Payment</h3>
                         <p style={{ fontSize: "14px", color: "#6b7280", marginTop: "4px" }}>
-                            We'll guide you through the manual payment process
+                            We&apos;ll guide you through the manual payment process
                         </p>
                     </div>
                     <button onClick={onClose} style={{ color: "#9ca3af", border: "none", background: "none", cursor: "pointer" }}>
@@ -728,7 +728,7 @@ const PayoneerContactModal = ({ service, onClose }: { service: ServiceData; onCl
                         <span style={{ fontWeight: 600, color: "#9333ea" }}>{service.price}/month</span>
                     </div>
                     <p style={{ fontSize: "14px", color: "#6b7280", marginTop: "12px" }}>
-                        Click the button below to contact us via WhatsApp. We'll provide you with our Payoneer details and guide you
+                        Click the button below to contact us via WhatsApp. We&apos;ll provide you with our Payoneer details and guide you
                         through the payment process.
                     </p>
                 </div>
