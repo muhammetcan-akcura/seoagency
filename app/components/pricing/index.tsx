@@ -11,156 +11,7 @@ interface ServiceData {
 }
 
 const servicesData: ServiceData[] = [
-    {
-        category: "SEO Packages",
-        title: "Basic",
-        price: "$10",
-        priceNum: 10,
-        features: [
-            "Keyword Research (20 keywords)",
-            "On-Page SEO Optimization",
-            "Weekly Performance Reports",
-            "Google Business Profile Optimization"
-        ]
-    },
-    {
-        category: "SEO Packages",
-        title: "Starter",
-        price: "$20",
-        priceNum: 20,
-        features: [
-            "Keyword Research (30 keywords)",
-            "On-Page SEO Optimization",
-            "Social Media Content",
-            "Weekly Performance Reports",
-            "Google Business Profile Optimization",
-            "Competitor Analysis"
-        ]
-    },
-    {
-        category: "SEO Packages",
-        title: "Standard",
-        price: "$50",
-        priceNum: 50,
-        features: [
-            "Keyword Research (40 keywords)",
-            "On-Page SEO Optimization",
-            "Weekly Performance Reports",
-            "Google Business Profile Optimization",
-            "Competitor Analysis",
-            "Technical SEO Audit"
-        ]
-    },
-    {
-        category: "SEO Packages",
-        title: "Plus",
-        price: "$100",
-        priceNum: 100,
-        features: [
-            "Keyword Research (40 keywords)",
-            "On-Page SEO Optimization",
-            "Weekly Performance Reports",
-            "Google Business Profile Optimization",
-            "Competitor Analysis",
-            "Technical SEO Audit",
-            "Content Creation"
-        ]
-    },
-    {
-        category: "SEO Packages",
-        title: "Advanced",
-        price: "$150",
-        priceNum: 150,
-        features: [
-            "Keyword Research (50 keywords)",
-            "On-Page SEO Optimization",
-            "Monthly Performance Reports",
-            "Google Business Profile Optimization",
-            "Competitor Analysis",
-            "Technical SEO Audit",
-            "Content Creation"
-        ]
-    },
-    {
-        category: "SEO Packages",
-        title: "Pro",
-        price: "$200",
-        priceNum: 200,
-        features: [
-            "Keyword Research (60 keywords)",
-            "On-Page SEO Optimization",
-            "Monthly Performance Reports",
-            "Google Business Profile Optimization",
-            "Competitor Analysis",
-            "Technical SEO Audit",
-            "Content Creation",
-            "Link Building"
-        ]
-    },
-    {
-        category: "SEO Packages",
-        title: "Premium",
-        price: "$250",
-        priceNum: 250,
-        features: [
-            "Keyword Research (70 keywords)",
-            "On-Page SEO Optimization",
-            "Monthly Performance Reports",
-            "Google Business Profile Optimization",
-            "Competitor Analysis",
-            "Technical SEO Audit",
-            "Content Creation",
-            "Link Building (5 links/month)"
-        ]
-    },
-    {
-        category: "SEO Packages",
-        title: "Ultra",
-        price: "$500",
-        priceNum: 500,
-        features: [
-            "Keyword Research (80 keywords)",
-            "On-Page SEO Optimization",
-            "Monthly Performance Reports",
-            "Google Business Profile Optimization",
-            "Competitor Analysis",
-            "Technical SEO Audit",
-            "Content Creation (4 articles/month)",
-            "Link Building (15 links/month)"
-        ]
-    },
-    {
-        category: "SEO Packages",
-        title: "Max",
-        price: "$750",
-        priceNum: 750,
-        features: [
-            "Keyword Research (90 keywords)",
-            "On-Page SEO Optimization",
-            "Monthly Performance Reports",
-            "Google Business Profile Optimization",
-            "Competitor Analysis",
-            "Technical SEO Audit",
-            "Content Creation (8 articles/month)",
-            "Link Building (30 links/month)"
-        ]
-    },
-    {
-        category: "SEO Packages",
-        title: "Ultimate",
-        price: "$1,000",
-        priceNum: 1000,
-        features: [
-            "Keyword Research (100 keywords)",
-            "On-Page SEO Optimization",
-            "Monthly Performance Reports",
-            "Google Business Profile Optimization",
-            "Competitor Analysis",
-            "Technical SEO Audit",
-            "Content Creation (12 articles/month)",
-            "Link Building (60 links/month)"
-        ]
-    },
+
     {
         category: "Marketing Packages",
         title: "Micro Launch",
@@ -490,7 +341,156 @@ const servicesData: ServiceData[] = [
             "Dedicated Ad Strategist & Designer",
             "3-Month Premium Support"
         ]
-    }
+    },    {
+        category: "SEO Packages",
+        title: "Basic",
+        price: "$10",
+        priceNum: 10,
+        features: [
+            "Keyword Research (20 keywords)",
+            "On-Page SEO Optimization",
+            "Weekly Performance Reports",
+            "Google Business Profile Optimization"
+        ]
+    },
+    {
+        category: "SEO Packages",
+        title: "Starter",
+        price: "$20",
+        priceNum: 20,
+        features: [
+            "Keyword Research (30 keywords)",
+            "On-Page SEO Optimization",
+            "Social Media Content",
+            "Weekly Performance Reports",
+            "Google Business Profile Optimization",
+            "Competitor Analysis"
+        ]
+    },
+    {
+        category: "SEO Packages",
+        title: "Standard",
+        price: "$50",
+        priceNum: 50,
+        features: [
+            "Keyword Research (40 keywords)",
+            "On-Page SEO Optimization",
+            "Weekly Performance Reports",
+            "Google Business Profile Optimization",
+            "Competitor Analysis",
+            "Technical SEO Audit"
+        ]
+    },
+    {
+        category: "SEO Packages",
+        title: "Plus",
+        price: "$100",
+        priceNum: 100,
+        features: [
+            "Keyword Research (40 keywords)",
+            "On-Page SEO Optimization",
+            "Weekly Performance Reports",
+            "Google Business Profile Optimization",
+            "Competitor Analysis",
+            "Technical SEO Audit",
+            "Content Creation"
+        ]
+    },
+    {
+        category: "SEO Packages",
+        title: "Advanced",
+        price: "$150",
+        priceNum: 150,
+        features: [
+            "Keyword Research (50 keywords)",
+            "On-Page SEO Optimization",
+            "Monthly Performance Reports",
+            "Google Business Profile Optimization",
+            "Competitor Analysis",
+            "Technical SEO Audit",
+            "Content Creation"
+        ]
+    },
+    {
+        category: "SEO Packages",
+        title: "Pro",
+        price: "$200",
+        priceNum: 200,
+        features: [
+            "Keyword Research (60 keywords)",
+            "On-Page SEO Optimization",
+            "Monthly Performance Reports",
+            "Google Business Profile Optimization",
+            "Competitor Analysis",
+            "Technical SEO Audit",
+            "Content Creation",
+            "Link Building"
+        ]
+    },
+    {
+        category: "SEO Packages",
+        title: "Premium",
+        price: "$250",
+        priceNum: 250,
+        features: [
+            "Keyword Research (70 keywords)",
+            "On-Page SEO Optimization",
+            "Monthly Performance Reports",
+            "Google Business Profile Optimization",
+            "Competitor Analysis",
+            "Technical SEO Audit",
+            "Content Creation",
+            "Link Building (5 links/month)"
+        ]
+    },
+    {
+        category: "SEO Packages",
+        title: "Ultra",
+        price: "$500",
+        priceNum: 500,
+        features: [
+            "Keyword Research (80 keywords)",
+            "On-Page SEO Optimization",
+            "Monthly Performance Reports",
+            "Google Business Profile Optimization",
+            "Competitor Analysis",
+            "Technical SEO Audit",
+            "Content Creation (4 articles/month)",
+            "Link Building (15 links/month)"
+        ]
+    },
+    {
+        category: "SEO Packages",
+        title: "Max",
+        price: "$750",
+        priceNum: 750,
+        features: [
+            "Keyword Research (90 keywords)",
+            "On-Page SEO Optimization",
+            "Monthly Performance Reports",
+            "Google Business Profile Optimization",
+            "Competitor Analysis",
+            "Technical SEO Audit",
+            "Content Creation (8 articles/month)",
+            "Link Building (30 links/month)"
+        ]
+    },
+    {
+        category: "SEO Packages",
+        title: "Ultimate",
+        price: "$1,000",
+        priceNum: 1000,
+        features: [
+            "Keyword Research (100 keywords)",
+            "On-Page SEO Optimization",
+            "Monthly Performance Reports",
+            "Google Business Profile Optimization",
+            "Competitor Analysis",
+            "Technical SEO Audit",
+            "Content Creation (12 articles/month)",
+            "Link Building (60 links/month)"
+        ]
+    },
 ];
 
 const PaymentMethodModal = ({

@@ -10,7 +10,7 @@ const Footer = () => {
                     {/* LOGO & DESCRIPTION */}
                     <div className='col-span-1'>
                         <Link href="/" className="text-2xl font-semibold text-white flex items-center gap-2">
-                            itsjustseo
+                            justanothermarketing
                         </Link>
                         <p className="text-offwhite text-base mt-4 leading-relaxed">
                         We&apos;re a full-service digital marketing agency dedicated to helping brands grow through impactful advertising campaigns, strategic marketing solutions, and measurable performance results. Our team blends creativity with data-driven insights to deliver targeted ad strategies, engaging content, and long-term SEO growth that drives visibility, traffic, and conversions across all digital channels.
@@ -19,15 +19,15 @@ const Footer = () => {
 
                     {/* CONTACT INFO */}
                     <div className='col-span-1'>
-                        <h3 className="text-white text-xl font-semibold mb-2">ITSJUSTSEO Limited</h3>
+                        <h3 className="text-white text-xl font-semibold mb-2">justanothermarketing Limited</h3>
                         <p className="text-offwhite text-base mb-4">Zekeriya Genc</p>
 
                         <div className="flex gap-3 items-center mb-4">
                             <Image src={'/assets/footer/email.svg'} alt="email-icon" width={20} height={20} />
                             <div>
                                 <span className="text-offwhite text-base font-semibold">E-mail: </span>
-                                <Link href="mailto:info@itsjustseo.com" className="text-offwhite hover:text-white transition-colors duration-300">
-                                    info@itsjustseo.com
+                                <Link href="mailto:info@justanothermarketing.com" className="text-offwhite hover:text-white transition-colors duration-300">
+                                    info@justanothermarketing.com
                                 </Link>
                             </div>
                         </div>
@@ -66,7 +66,7 @@ const Footer = () => {
                 {/* BOTTOM BAR */}
                 <div className='py-8 text-center border-t border-t-bordertop'>
                     <h4 className='text-offwhite text-sm font-normal'>
-                        © 2020 itsjustseo. All right reserved.
+                        © 2020 justanothermarketing. All right reserved.
                     </h4>
                 </div>
 
