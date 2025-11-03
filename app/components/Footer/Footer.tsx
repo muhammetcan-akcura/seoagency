@@ -13,7 +13,7 @@ const Footer = () => {
                             justanothermarketing
                         </Link>
                         <p className="text-offwhite text-base mt-4 leading-relaxed">
-                        We&apos;re a full-service digital marketing agency dedicated to helping brands grow through impactful advertising campaigns, strategic marketing solutions, and measurable performance results. Our team blends creativity with data-driven insights to deliver targeted ad strategies, engaging content, and long-term SEO growth that drives visibility, traffic, and conversions across all digital channels.
+                            We&apos;re a full-service digital marketing agency dedicated to helping brands grow through impactful advertising campaigns, strategic marketing solutions, and measurable performance results. Our team blends creativity with data-driven insights to deliver targeted ad strategies, engaging content, and long-term SEO growth that drives visibility, traffic, and conversions across all digital channels.
                         </p>
                     </div>
 
@@ -49,7 +49,10 @@ const Footer = () => {
                             <div>
                                 <p className="text-offwhite text-base font-semibold mb-1">Address (EN):</p>
                                 <p className="text-offwhite text-base leading-relaxed">
-                                    Room H 11, 1/F, Kaiser Estate Phase 2, No. 51 Man Yue Street, Hung Hom, Hong Kong
+                                    128, City Road
+                                    London
+                                    EC1V 2NX
+                                    UNITED KINGDOM
                                 </p>
                             </div>
                         </div>

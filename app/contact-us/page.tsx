@@ -29,7 +29,10 @@ export default function ContactUs() {
                         <div>
                             <h2 className="text-xl font-semibold mb-2">Address (EN)</h2>
                             <p className="text-muted-foreground">
-                                Room H 11, 1/F, Kaiser Estate Phase 2, No. 51 Man Yue Street, Hung Hom, Hong Kong
+                                128, City Road
+                                London
+                                EC1V 2NX
+                                UNITED KINGDOM
                             </p>
                         </div>
                     </div>
