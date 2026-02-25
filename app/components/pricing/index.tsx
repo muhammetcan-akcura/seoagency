@@ -341,7 +341,7 @@ const servicesData: ServiceData[] = [
             "Dedicated Ad Strategist & Designer",
             "3-Month Premium Support"
         ]
-    },    {
+    }, {
         category: "SEO Packages",
         title: "Basic",
         price: "$100",
@@ -498,11 +498,13 @@ const PaymentMethodModal = ({
     onClose,
     onSelectStripe,
     onSelectPayoneer,
+    onSelectWise,
 }: {
     service: ServiceData
     onClose: () => void
     onSelectStripe: () => void
     onSelectPayoneer: () => void
+    onSelectWise: () => void
 }) => {
     return (
         <div
@@ -669,6 +671,68 @@ const PaymentMethodModal = ({
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                         </svg>
                     </button>
+
+                    <button
+                        onClick={onSelectWise}
+                        style={{
+                            width: "100%",
+                            padding: "20px",
+                            border: "2px solid #e5e7eb",
+                            borderRadius: "12px",
+                            backgroundColor: "white",
+                            cursor: "pointer",
+                            transition: "all 0.3s",
+                            display: "flex",
+                            alignItems: "center",
+                            gap: "16px",
+                        }}
+                        onMouseEnter={(e) => {
+                            e.currentTarget.style.borderColor = "#9333ea"
+                            e.currentTarget.style.backgroundColor = "#f9fafb"
+                        }}
+                        onMouseLeave={(e) => {
+                            e.currentTarget.style.borderColor = "#e5e7eb"
+                            e.currentTarget.style.backgroundColor = "white"
+                        }}
+                    >
+                        <div
+                            style={{
+                                width: "48px",
+                                height: "48px",
+                                backgroundColor: "#e2ff66",
+                                borderRadius: "8px",
+                                display: "flex",
+                                alignItems: "center",
+                                justifyContent: "center",
+                            }}
+                        >
+                            <svg
+                                style={{ width: "24px", height: "24px", color: "#111827" }}
+                                fill="none"
+                                viewBox="0 0 24 24"
+                                stroke="currentColor"
+                            >
+                                <path
+                                    strokeLinecap="round"
+                                    strokeLinejoin="round"
+                                    strokeWidth={2}
+                                    d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                                />
+                            </svg>
+                        </div>
+                        <div style={{ textAlign: "left", flex: 1 }}>
+                            <h4 style={{ fontSize: "18px", fontWeight: "bold", color: "#111827", marginBottom: "4px" }}>Wise</h4>
+                            <p style={{ fontSize: "14px", color: "#6b7280" }}>Fast and secure international transfer</p>
+                        </div>
+                        <svg
+                            style={{ width: "20px", height: "20px", color: "#9ca3af" }}
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            stroke="currentColor"
+                        >
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                        </svg>
+                    </button>
                 </div>
             </div>
         </div>
@@ -729,6 +793,105 @@ const PayoneerContactModal = ({ service, onClose }: { service: ServiceData; onCl
                     </div>
                     <p style={{ fontSize: "14px", color: "#6b7280", marginTop: "12px" }}>
                         Click the button below to contact us via WhatsApp. We&apos;ll provide you with our Payoneer details and guide you
+                        through the payment process.
+                    </p>
+                </div>
+
+                <a
+                    href={whatsappUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        gap: "12px",
+                        width: "100%",
+                        backgroundColor: "#25D366",
+                        color: "white",
+                        fontWeight: 600,
+                        padding: "16px",
+                        borderRadius: "12px",
+                        border: "none",
+                        cursor: "pointer",
+                        textDecoration: "none",
+                        transition: "all 0.3s",
+                    }}
+                    onMouseEnter={(e) => {
+                        e.currentTarget.style.backgroundColor = "#20BA5A"
+                    }}
+                    onMouseLeave={(e) => {
+                        e.currentTarget.style.backgroundColor = "#25D366"
+                    }}
+                >
+                    <svg style={{ width: "24px", height: "24px" }} fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z" />
+                    </svg>
+                    Contact Us on WhatsApp
+                </a>
+
+                <p style={{ fontSize: "12px", color: "#9ca3af", textAlign: "center", marginTop: "16px" }}>
+                    Our team will respond within 24 hours
+                </p>
+            </div>
+        </div>
+    )
+}
+
+const WiseContactModal = ({ service, onClose }: { service: ServiceData; onClose: () => void }) => {
+    const whatsappNumber = "905523568756" // Replace with your WhatsApp number
+    const message = `Hi, I'm interested in the ${service.title} package (${service.price}) and would like to pay via Wise.`
+    const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`
+
+    return (
+        <div
+            style={{
+                position: "fixed",
+                top: 0,
+                left: 0,
+                right: 0,
+                bottom: 0,
+                backgroundColor: "rgba(0, 0, 0, 0.5)",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                zIndex: 9999,
+                padding: "16px",
+            }}
+        >
+            <div
+                style={{
+                    backgroundColor: "white",
+                    borderRadius: "16px",
+                    maxWidth: "500px",
+                    width: "100%",
+                    padding: "32px",
+                }}
+            >
+                <div
+                    style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", marginBottom: "24px" }}
+                >
+                    <div>
+                        <h3 style={{ fontSize: "24px", fontWeight: "bold", color: "#111827" }}>Contact Us for Wise Payment</h3>
+                        <p style={{ fontSize: "14px", color: "#6b7280", marginTop: "4px" }}>
+                            We&apos;ll guide you through the manual payment process
+                        </p>
+                    </div>
+                    <button onClick={onClose} style={{ color: "#9ca3af", border: "none", background: "none", cursor: "pointer" }}>
+                        <svg style={{ width: "24px", height: "24px" }} fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                        </svg>
+                    </button>
+                </div>
+
+                <div style={{ backgroundColor: "#f9fafb", padding: "20px", borderRadius: "12px", marginBottom: "24px" }}>
+                    <h4 style={{ fontWeight: 600, color: "#111827", marginBottom: "12px" }}>Selected Package</h4>
+                    <div style={{ display: "flex", justifyContent: "space-between", marginBottom: "8px" }}>
+                        <span style={{ color: "#6b7280" }}>{service.title}</span>
+                        <span style={{ fontWeight: 600, color: "#9333ea" }}>{service.price}</span>
+                    </div>
+                    <p style={{ fontSize: "14px", color: "#6b7280", marginTop: "12px" }}>
+                        Click the button below to contact us via WhatsApp. We&apos;ll provide you with our Wise details and guide you
                         through the payment process.
                     </p>
                 </div>
@@ -1169,6 +1332,7 @@ const PricingPage = () => {
     const [showPaymentMethod, setShowPaymentMethod] = useState(false)
     const [showCheckout, setShowCheckout] = useState(false)
     const [showPayoneerContact, setShowPayoneerContact] = useState(false)
+    const [showWiseContact, setShowWiseContact] = useState(false)
     const categories = Array.from(new Set(servicesData.map((s) => s.category)))
 
     const handleGetStarted = (service: ServiceData) => {
@@ -1186,11 +1350,17 @@ const PricingPage = () => {
         setShowPayoneerContact(true)
     }
 
+    const handleSelectWise = () => {
+        setShowPaymentMethod(false)
+        setShowWiseContact(true)
+    }
+
     const handleCloseAll = () => {
         setSelectedService(null)
         setShowPaymentMethod(false)
         setShowCheckout(false)
         setShowPayoneerContact(false)
+        setShowWiseContact(false)
     }
 
     return (
@@ -1330,6 +1500,7 @@ const PricingPage = () => {
                     onClose={handleCloseAll}
                     onSelectStripe={handleSelectStripe}
                     onSelectPayoneer={handleSelectPayoneer}
+                    onSelectWise={handleSelectWise}
                 />
             )}
 
@@ -1337,6 +1508,10 @@ const PricingPage = () => {
 
             {selectedService && showPayoneerContact && (
                 <PayoneerContactModal service={selectedService} onClose={handleCloseAll} />
+            )}
+
+            {selectedService && showWiseContact && (
+                <WiseContactModal service={selectedService} onClose={handleCloseAll} />
             )}
         </div>
     )
